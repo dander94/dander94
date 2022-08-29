@@ -4,6 +4,7 @@
 - ✨ I love using Python/Django 🐍, React ⚛️, and Vue 💚
 - 💻 I'm currently working at [Smith.ai](https://smith.ai) as Senior Software Engineer
 - 💃 I live in Seville, Spain
+- 🌐 More about me: [dander.dev](https://dander.dev)
 
 
 Here are some public projects I've coded / collaborated 
