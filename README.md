@@ -1,6 +1,6 @@
 ### Ahoy! I'm Dander! 👋 
 
-- 🤓 I'm a Software Engineer with +6 years of experience
+- 🤓 I'm a Software Engineer with +7 years of experience
 - ✨ I love using Python/Django 🐍, React ⚛️, and Vue 💚
 - 💻 I'm currently working at [Smith.ai](https://smith.ai) as Senior Software Engineer
 - 💃 I live in Seville, Spain
